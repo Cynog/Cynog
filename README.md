@@ -3,7 +3,7 @@
 - 👀 Interested in **High Performance Computing** (i.e. Parallel Programming using OpenMP, MPI, NVIDIA CUDA, ...), **Embedded Systems** (Arduino and co), **Numerics** (especially solvers and preconditioners for systems of linear equations), **Data Science**, **Machine Learning** and much more
 - 🌱 Currently improving my C++ skills, after working with raw C for way too long
 - 😊 Quite proud of the Arduino Uno C++ library for an external SRAM [arduino-extram](https://github.com/Cynog/arduino-extram/) which shows the idea of caching on modern CPUs by using the slower external RAM as main RAM and the faster internal RAM as cache
-- 📷 Happy to support [OneShot App](https://github.com/ptrLx/OneShot) by [@ptrLx](https://github.com/ptrLx) with sample images
+- 📷 Happy to support [OneShot App](https://github.com/ptrLx/OneShot) with sample images
 - 🤝🏻 Collaborating on a huge microcontroller project with visualization of sensor data over on Gitlab
 
 <!---
